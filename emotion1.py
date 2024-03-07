@@ -1,4 +1,4 @@
-#import all the packages
+#import all the packages as per the requirement
 import PySimpleGUI as sg
 from os import startfile
 from deepface import DeepFace
